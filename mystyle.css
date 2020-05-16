@@ -1,0 +1,34 @@
+.body {
+  background-color:khaki;
+  color:darkorange;
+  font-size:200%;
+  text-align:left;
+}
+.h1 {
+  background-color:lightblue;
+  color:chocolate;
+  font-family:impact;
+  border:outset brown 8px;
+}
+.btn {
+  background-color:powderblue;
+  color:grey;
+  font-size:36px;
+  width:120px;
+  height:60px;
+}
+.input {
+  background-color:lightgreen;
+  width:240px;
+  height:60px;
+  font-size:48px;
+}
+.select {
+  background-color:lightgreen;
+  width:240px;
+  height:60px;
+  font-size:36px;
+}
+.p {
+  text-align:left;
+}
